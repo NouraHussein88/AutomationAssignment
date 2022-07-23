@@ -2,7 +2,7 @@
 
 The main Frameworks included in the project:
   - Selenium Webdriver
-  - estNG
+  - TestNG
   - Extent Reports
   - Apachi POI
 
