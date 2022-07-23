@@ -1,4 +1,4 @@
-# Apply the task using native Selenium
+# Apply the task using native selenium
 
 The main Frameworks included in the project:
   - Selenium Webdriver
